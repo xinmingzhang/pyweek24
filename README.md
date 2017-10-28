@@ -1,12 +1,15 @@
-Pygame- Slideshow
+No Entry (pyweek 24)
 
-this app is created for [ Reddit Pygame Challenge](https://www.reddit.com/r/pygame/comments/5lttat/challenge_slideshow/)
+this game is created for [pyweek24](https://pyweek.org/e/xm24/)
 
+![screenshot1](https://github.com/xinmingzhang/pyweek24/blob/master/screenshot.png)
+### How to Play
+simply install the .apk file and then run it :)
+or run main.py, need kivy installed.
 
-### Controls
-drag some images to the img folder, there is already some images for test
-up: increase the speed, max is 0.2s
-down:decrease the speed, min is 2s
+in the game, drag the tower to build and shoot the enemies.
+
+my first tower defense game, hope you enjoy ^ v ^
 
 
 
